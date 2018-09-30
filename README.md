@@ -1,2 +1,2 @@
 # Reconstruct-image-from-CNN-output
-Reconstruct image from CNN output using Keras and Tensorflow
+Visualize input from CNN output using Keras and Tensorflow
