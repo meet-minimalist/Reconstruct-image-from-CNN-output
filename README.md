@@ -1,4 +1,4 @@
-# Reconstruct-image-from-CNN-output
+# Reconstruct the input image from CNN output
 Visualize input from CNN output using Keras and Tensorflow
 
 _In this work, I would like to show the attempts to visualize the input from CNN output using VGG16 model in Keras and Tensorflow. In both the implementation, I failed to create visualizations as per the expectation. I was expecting that the image generated from the network should resemble with the class image. But it didn't performed as per the expectations._
